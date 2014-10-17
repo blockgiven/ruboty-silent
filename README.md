@@ -2,6 +2,8 @@
 
 Robots talk too much, hack robots to keep them quiet.
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
